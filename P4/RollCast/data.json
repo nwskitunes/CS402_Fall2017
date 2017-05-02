@@ -1,0 +1,8 @@
+{
+    {
+        "state":"Montana",
+        "river": "Big Hole",
+        "weatherURL":"http://mobile.weather.gov/index.php?lat=45.6319&lon=-112.6845&unit=0&lg=english",
+        "flowDataURL":"http://waterdata.usgs.gov/nwisweb/graph?agency_cd=USGS&site_no=06025500&parm_cd=00060&period=7"
+    },
+}
